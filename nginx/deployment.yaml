@@ -18,5 +18,3 @@ spec:
       containers:
       - image: 192.168.84.250:8081/docker-registry/nginx:1.29
         name: nginx-container-01
-      - image: 192.168.84.250:8081/docker-registry/nginx:1.28
-        name: nginx-container-02
